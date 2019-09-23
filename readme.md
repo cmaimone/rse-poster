@@ -99,7 +99,7 @@ RSEs are needed to combine research and software development skills.
 
 **Create mechanisms for installing and deploying novel software on researcher's computers and university systems.**  Just because a piece of software is uncommon, or you aren't familiar with it, it doesn't mean it's not important.  Researchers are using and developing software that may only be relevant to a few dozen people in their field.  Preventing people from installing the software they need on university systems will only lead to them working outside the system.  
 
-**Provide resources for and assistance with testing and deploying software.**  Deploying research software may require setting up custom domains, hosting servers, and integrating with other services.  Help researchers and RSEs find and use the best resources for these tasks.
+**Provide resources for and assistance with testing and deploying software.**  Deploying research software may require setting up custom domains, hosting servers, and integrating with other services.  Help researchers and RSEs find and use the best resources for these tasks.  They may need to test and deploy software on your systems, but they usually aren't system admins.  Help them understand your concerns and policies, and get them the information and support they need to be successful.  
 
 **Encourage conversations about software sustainability.**  Help researchers develop a plan to ensure their software will continue to work, even after the person who wrote it leaves the institution.
 
@@ -110,7 +110,9 @@ RSEs are needed to combine research and software development skills.
 
 # What can IT Organizations do to Support Research Software Engineers?
 
-**Welcome them as colleagues.**  RSEs are developers, even though they may go by many different names.    
+**Welcome them as colleagues.**  RSEs are developers, even though they may go by many different names.  Help them connect with software developers in your organization.
+
+**Recognize their unique skill set.** While RSEs may have many skills in common with IT software developers, they have also developed significant expertise in research.  It is this combination of skills that helps them do their work well.  Help your institution's leadership recognize how RSEs are different from IT or other non-research software developers.
 
 **Help them get the resources they need.**  RSEs may have different IT requirements than other researchers.  Help them navigate IT organizations and policies to find the right people and resources.  Work with them to find solutions that meet their needs and are still manageable and sustainable for your organization.
 
