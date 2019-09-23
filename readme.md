@@ -41,7 +41,7 @@ On average, scientists spend 30% of their time developing research software and 
 
 Students: From undergraduate research assistants to graduate students starting their own careers, students write, maintain, and use research software in every domain.  Many have limited or no training in programming or software development when they start.
 
-Faculty: In addition to creating software, faculty may also be managing software development teams.
+Faculty: In addition to creating software, faculty may also be managing software development teams.  They may also have limited or no training in programming or software development.
 
 Postdocs and Staff Researchers: People in these positions may be developing software full time, or they may be creating software as part of their research.
 
@@ -58,7 +58,7 @@ Research Software Engineers: A growing number of people are focused on developin
 
 # What is a Research Software Engineer?
 
-Research Software Engineers (RSEs) combine knowledge of a research domain with software development skills and practices to create software for research.  They regularly apply expertise in programming to advance research.
+Research Software Engineers (RSEs) combine knowledge of a research domain and the research process with software development skills and practices to create software for research.  They regularly apply expertise in programming to advance research.
 
 Some RSEs started as software developers and then learned about the research process and research problems software can help solve.  Other RSEs started as researchers who needed to write software to answer their research questions or share their research with the world.
 
@@ -86,7 +86,7 @@ Researchers can't be experts in everything!  Modern research requires teams of s
 
 Many researchers know how to code, but they are not familiar with software development practices.  For example, a majority of researchers do not use standard software testing practices.[6]
 
-RSEs bring knowledge of version control, testing, deployment, software design, distribution, documentation, automation, and more to the process.  By devoting time to developing these skills, learning best practices, and engaging with the broader software development community, RSEs help make research software more robust, manageable, and sustainable.
+RSEs bring knowledge of version control, testing, deployment, software design, distribution, documentation, automation, and more to the process.  And they know how to adapt these practices to work well in a research environment.  By devoting time to developing these skills, learning best practices, and engaging with the broader software development community, RSEs help make research software more robust, manageable, and sustainable.
 
 Similarly, traditional software developers may not have the knowledge of the research process or the domain of a specific research application to effectively develop software.  RSEs spend time learning about the methods, terminology, data, and approaches used in the research they support.  Research software engineers may need to read scientific publications and figure out how to implement the algorithms and methods reported in them.  RSEs may also contribute to writing scientific articles.  RSEs need to talk to and work with researchers to gather requirements, get feedback, and determine how to test the software they create.  
 
