@@ -2,11 +2,28 @@
 
 *This text is primarily for a poster at Educause 2019 Conference.  Will also work this text into a blog post.  Comments and suggestions welcome.*
 
-*Proper citations tbd.*
 
 # What is Research Software?
 
 Research software is a broad term that includes software programs, languages, libraries, scripts, and tools developed to support research.  Research software helps researchers make new discoveries and share their methods with others.
+
+## Why is Research Software Important?
+
+80% of articles published in *Science* and *Nature* explicitly mention research software.[2]
+
+Between 1995 and 2016, the National Science Foundation awarded $9.6 billion in funding to projects that included software in their abstracts.[1]
+
+95% of researchers report using research software, and 2/3 could not do their research without it.[4]
+
+On average, scientists spend 30% of their time developing research software and 40% of their time using research software.[5]
+
+## Challenges for Research Software
+
+Inexperienced developers: Research software is often written by researchers and students with limited experience with software development practices.   
+
+Sustainability is a requirement: Scientific studies can run for years or decades.  Both the original research teams and subsequent researchers building on the results need to be able to run the software required to ensure consistency in methods and data, test new data, and reproduce results.  
+
+Incentives: Software is critical to research, but the creation and maintenance of software is often not recognized in hiring, promotion, and tenure decision procesesses.  Those who write research software professionally often lack permanent and well-funded positions within academia. 
 
 
 ## Examples of Research Software
@@ -26,15 +43,7 @@ Omeka: An open source web publishing platform used to showcase digital humanitie
 Pymatgen: A Python library used for materials analysis.
 
 
-## Why is Research Software Important?
 
-80% of articles published in *Science* and *Nature* explicitly mention research software.[2]
-
-Between 1995 and 2016, the National Science Foundation awarded $9.6 billion in funding to projects that included software in their abstracts.[1]
-
-95% of researchers report using research software, and 2/3 could not do their research without it.[4]
-
-On average, scientists spend 30% of their time developing research software and 40% of their time using research software.[5]
 
 
 # Who Creates Research Software?
@@ -59,6 +68,8 @@ Research Software Engineers: A growing number of people are focused on developin
 # What is a Research Software Engineer?
 
 Research Software Engineers (RSEs) combine knowledge of a research domain and the research process with software development skills and practices to create software for research.  They regularly apply expertise in programming to advance research.
+
+RSEs knowledge of the research lifecycle allows them to adapt software engineering practices to a research environment.
 
 Some RSEs started as software developers and then learned about the research process and research problems software can help solve.  Other RSEs started as researchers who needed to write software to answer their research questions or share their research with the world.
 
@@ -97,7 +108,7 @@ RSEs are needed to combine research and software development skills.
 
 **Learn about the research software development projects at your institution.**  Ask researchers and research staff about their work.  Find out if they're writing code.  Researchers themselves don't always realizing they are developing software!
 
-**Create mechanisms for installing and deploying novel software on researcher's computers and university systems.**  Just because a piece of software is uncommon, or you aren't familiar with it, it doesn't mean it's not important.  Researchers are using and developing software that may only be relevant to a few dozen people in their field.  Preventing people from installing the software they need on university systems will only lead to them working outside the system.  
+**Create mechanisms for installing and deploying novel software on researcher's computers and university systems.**  Make it easy to do the right thing AND research, which may require novel software.  
 
 **Provide resources for and assistance with testing and deploying software.**  Deploying research software may require setting up custom domains, hosting servers, and integrating with other services.  Help researchers and RSEs find and use the best resources for these tasks.  They may need to test and deploy software on your systems, but they usually aren't system admins.  Help them understand your concerns and policies, and get them the information and support they need to be successful.  
 
@@ -149,6 +160,8 @@ Nordic Countries: http://nordic-rse.org/
 
 Software Sustainability Institute: https://www.software.ac.uk
 
+US Research Software Sustainability Institute: http://urssi.us
+
 Better Scientific Software: https://bssw.io/
 
 
@@ -156,14 +169,14 @@ Better Scientific Software: https://bssw.io/
 
 # Citations
 
-[1] 10.1109/SE4Science.2019.00009
+[1] Katz, D. S., McHenry, K., Reinking, C. & Haines, R. Research Software Development Management in Universities: Case Studies from Manchester’s RSDS Group, Illinois’ NCSA, and Notre Dame’s CRC. in 2019 IEEE/ACM 14th International Workshop on Software Engineering for Science (SE4Science) 17–24 (2019). doi:10.1109/SE4Science.2019.00009
 
-[2] 10.1109/eScience.2017.78
+[2] Nangia, U. & Katz, D. S. Understanding Software in Research: Initial Results from Examining Nature and a Call for Collaboration. in 2017 IEEE 13th International Conference on e-Science (e-Science) 486–487 (2017). doi:10.1109/eScience.2017.78
 
-[3] https://doi.org/10.5281/zenodo.1183562
+[3] Simon Hettrick. softwaresaved/software\_in\_research\_survey\_2014: Software in research survey. (Zenodo, 2018). doi:10.5281/zenodo.1183562
 
-[4] https://doi.org/10.6084/m9.figshare.5328442.v3
+[4] Nangia, U. & Katz, D. S. Track 1 Paper: Surveying the U.S. National Postdoctoral Association Regarding Software Use and Training in Research. (2017). doi:10.6084/m9.figshare.5328442.v3
 
-[5] 10.1109/SECSE.2009.5069155
+[5] Hannay, J. E. et al. How do scientists develop and use scientific software? in 2009 ICSE Workshop on Software Engineering for Computational Science and Engineering 1–8 (2009). doi:10.1109/SECSE.2009.5069155
 
-[6] doi>10.1145/2063348.2063374
+[6] Prabhu, P. et al. A Survey of the Practice of Computational Science. in State of the Practice Reports 19:1–19:12 (ACM, 2011). doi:10.1145/2063348.2063374
